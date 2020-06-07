@@ -1,5 +1,9 @@
 Context
-This dataset is created for prediction of Graduate Admissions from an Indian perspective.
+The purpose of this project is to predict the probability of admission for students based on several metrics given below. 
+This project is for personal practice into machine learning, data cleaning and dealing with multicollinearity. There are 2 files containing
+my code:
+1. "Task 1_Admission Prediction.ipynb" uses scikit learn and ignores effects of multicollinearity
+2. "Task 1_Neural networks.ipynb" uses neural networks and deals with multicollinearity
 
 Content
 The dataset contains several parameters which are considered important during the application for Masters Programs.
@@ -18,7 +22,6 @@ The dataset is owned by Mohan S Acharya.
 
 TASK: 
 1. Predict likelihood of admission
-2. How important are GRE scores
 
 taken from:
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
